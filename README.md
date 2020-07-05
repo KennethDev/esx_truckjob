@@ -1,6 +1,8 @@
 # esx_truckjob
 Adds the ability for players to drive for a trucking company (default/lore-friendly: Walker Logistics) and fulfill contracts with various in-game companies.
 
+THIS RESOURCE IS INCOMPLETE AND DOES NOT FUNCTION AS IS
+
 ## Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
 * [esx_skin](https://github.com/ESX-Org/esx_skin)
